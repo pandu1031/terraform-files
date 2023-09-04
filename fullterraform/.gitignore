@@ -1,0 +1,5 @@
+# Ignore log files
+*.terraform
+
+
+
